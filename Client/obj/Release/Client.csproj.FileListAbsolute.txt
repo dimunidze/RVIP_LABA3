@@ -1,0 +1,9 @@
+C:\Users\Dmitry\source\repos\Rvip3\Client\bin\Release\Client.exe.config
+C:\Users\Dmitry\source\repos\Rvip3\Client\bin\Release\Client.exe
+C:\Users\Dmitry\source\repos\Rvip3\Client\bin\Release\Client.pdb
+C:\Users\Dmitry\source\repos\Rvip3\Client\obj\Release\Client.Form1.resources
+C:\Users\Dmitry\source\repos\Rvip3\Client\obj\Release\Client.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\Rvip3\Client\obj\Release\Client.csproj.GenerateResource.Cache
+C:\Users\Dmitry\source\repos\Rvip3\Client\obj\Release\Client.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\Rvip3\Client\obj\Release\Client.exe
+C:\Users\Dmitry\source\repos\Rvip3\Client\obj\Release\Client.pdb

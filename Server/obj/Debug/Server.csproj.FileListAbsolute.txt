@@ -1,0 +1,9 @@
+C:\Users\Dmitry\source\repos\Rvip3\Server\bin\Debug\Server.exe.config
+C:\Users\Dmitry\source\repos\Rvip3\Server\bin\Debug\Server.exe
+C:\Users\Dmitry\source\repos\Rvip3\Server\bin\Debug\Server.pdb
+C:\Users\Dmitry\source\repos\Rvip3\Server\obj\Debug\Server.Form1.resources
+C:\Users\Dmitry\source\repos\Rvip3\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Dmitry\source\repos\Rvip3\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Dmitry\source\repos\Rvip3\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\source\repos\Rvip3\Server\obj\Debug\Server.exe
+C:\Users\Dmitry\source\repos\Rvip3\Server\obj\Debug\Server.pdb
